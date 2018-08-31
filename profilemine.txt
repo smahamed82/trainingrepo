@@ -1,4 +1,4 @@
-My name is Manzoor
+name is Manzoor
 Am working in Salesforce as DB enginner
 Chaning this
 Add change for lab
